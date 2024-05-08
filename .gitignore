@@ -1,0 +1,8 @@
+/.idea
+*.env
+*.csv
+*.png
+*.jpg
+*.session
+*.session-journal
+*.xml
